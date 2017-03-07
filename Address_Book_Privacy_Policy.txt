@@ -16,7 +16,7 @@ But in that scenario it is asked from user before sharing, and all sharing appli
 
 Third-party Advertisers:
 
-Address Book uses AdMob for advertisement
+Address Book uses AdMob for advertisement, which is having its own privacy policy.
 
 Links to Other Sites: 
 
