@@ -1,5 +1,5 @@
 Privacy Policy:
-Address Book respects the privacy of its users and is committed to protect it in all respects. With a view to offer most enriching experience to its users Address Book offers variety of services. This policy helps you in making decision about whether to use or continue using the Address book application. 
+Address Book respects the privacy of its users and is committed to protect it in all respects. With a view to offer most enriching experience to its users Address Book offers variety of services. This policy helps you in making decision about whether to use or continue using the Address book application.
 The Information Address book Collects:
 When a user creates new contact, address book asks for Name, Phone, Email, Address and Note, and that information is saved in Mobile itself, as address book is not server based application, so everything is saved on device itself and we do not collect any information from user. When a user import contacts in address book again all contact details are saved in mobile itself.
 And when User export contacts all contact details are exported to Contacts.vcf file which is stored on SD Card of device.
